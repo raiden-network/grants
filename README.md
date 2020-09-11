@@ -43,7 +43,7 @@ To make sure that your submission will be considered as adding value to the Raid
 * Please include an estimated effort so that we can decide on a fitting grant size (more funds will be added to the grant on gitcoin in case of a more complex submission)
 * Await feedback to make sure that what you’re building is meaningful
 
-### How to submit your final project:
+#### How to submit your final project:
 When you have finished your work on a project, please provide the following information in order to be considered for a grant payout:
 
 * A link to the open-source repository containing all the code associated with your project
