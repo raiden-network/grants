@@ -40,7 +40,7 @@ To make sure that your submission will be considered as adding value to the Raid
 
 * Create a [new issue](https://github.com/raiden-network/grants/issues) with the name of your project in our grants repo
 * Outline your proposal in that issue including the use case and functionality (300-800 words)
-* Please include an estimated effort so that we can decide on a fitting grant size (more funds will be added to the grant on gitcoin in case of a more complex submisison)
+* Please include an estimated effort so that we can decide on a fitting grant size (more funds will be added to the grant on gitcoin in case of a more complex submission)
 * Await feedback to make sure that what you’re building is meaningful
 
 ### How to submit your final project:
